@@ -1,2 +1,1 @@
-# NaiveBayesGenderPrediction
-Gender Prediction with Naive Bayes
+  The project was initiated to design a model capable of predicting transaction amounts within the existing data. However, upon examining the data, it was found that the gender labels in the data were incorrect, and it was anticipated that these incorrect gender labels would affect the predictions based on gender. There are missing data points within the dataset, and when incorrect data is considered, the gender data has become unreliable to a significant extent. As a result, the goal is to completely rectify the gender data by re-predicting it using the Naive Bayes algorithm.
